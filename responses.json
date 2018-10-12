@@ -1,13 +1,17 @@
 {
-		"commands": {
-				
-		},
+    "commands": {
 
-		"responses": {
-				
-		},
+    },
 
-		"mentions": {
+    "responses": {
+        "hi": "hello",
+        "marco": "polo",
+        "ping": "pong",
+        "im hungry": "Hi Hungry, lol I have no food",
+        "im tired": "Hi Tired, I am Kinfy"
+    },
 
-		}
+    "mentions": {
+
+    }
 }
